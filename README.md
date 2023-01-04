@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and game developer from New Jersey.
+  A software engineer from New Jersey.
 </p>
 
 <p align='center'>
@@ -48,7 +48,7 @@
   
 ## Learning🌱 
  - Web Development with HTML & CSS 
- - Python Development
+ - ASP.NET
 
 ## 💬 Ask me about
 - Game Design and how I incorporated it into my own games
