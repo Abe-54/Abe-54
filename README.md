@@ -47,8 +47,8 @@
 
   
 ## Learning🌱 
- - Web Development with HTML & CSS 
- - ASP.NET
+ - Web Development with HTML, CSS, & Javascript
+ - React
 
 ## 💬 Ask me about
 - Game Design and how I incorporated it into my own games
