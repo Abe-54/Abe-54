@@ -49,18 +49,18 @@
 ## Learning🌱 
  - Web Development with HTML, CSS, & Javascript
  - React
+ - React Native
+ - Typescript
 
 ## 💬 Ask me about
 - Game Design and how I incorporated it into my own games
 - Game Programming within **Unity** and **Design Patterns**
-- Mobile Application Development using **Java** and  **XML**
-- Web Development using **HTML** and **CSS** (Still Learning)
+- Mobile Application Development
+- Web Development using **HTML**,**CSS**, and **Javascript**
 - Solving Data structure and algorithm questions in **Java**
 
 ## Hobbies
-- Playing a variety games from competitive shooters like Valorant to table top rpgs like DnD
+- Playing a variety of games from competitive shooters like Valorant to tabletop RPGs like DnD
 - Watching Anime and TV Shows
 - Reading Manga
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abe-54.abe-54)
 
