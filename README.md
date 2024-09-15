@@ -47,17 +47,16 @@
 
   
 ## Learning🌱 
- - Web Development with HTML, CSS, & Javascript
  - React
- - React Native
  - Typescript
+ - NextJS
+ - 3D Game Development in **Unity**
 
 ## 💬 Ask me about
-- Game Design and how I incorporated it into my own games
+- Game Design and how I incorporated it into my games
 - Game Programming within **Unity** and **Design Patterns**
-- Mobile Application Development
-- Web Development using **HTML**,**CSS**, and **Javascript**
-- Solving Data structure and algorithm questions in **Java**
+- Web Development using **Typescript**, **NextJS**, **Tailwind**
+- Solving Data structure and algorithm questions in **Java** & **Python**
 
 ## Hobbies
 - Playing a variety of games from competitive shooters like Valorant to tabletop RPGs like DnD
