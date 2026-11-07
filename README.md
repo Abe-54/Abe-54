@@ -17,10 +17,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abe-54&show_icons=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
   📫 How to reach me: <a href='mailto:a.rubio1224@gmail.com'>a.rubio1224@gmail.com</a>
 </p>
 
